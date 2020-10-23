@@ -43,9 +43,6 @@
     .header-area h2 {
         font-size: 2.2em;
     }
-    .header-area p {
-        font-size: 0.9em;
-    }
     .category-area .flex-category {
         flex-direction: column;
         text-align: center;
@@ -55,11 +52,9 @@
     }
     .men-collection-area .item {
         width: 100%;
-        font-size: .7em;
     }
     .women-collection-area .item {
         width: 100%;
-        font-size: .7em;
     }
     .social-area .social-flex {
         flex-direction: column;
@@ -70,9 +65,6 @@
     }
     .footer-area .footer-left-area br {
         display: none;
-    }
-    .footer-area .footer-left-area p {
-        font-size: 0.8em;
     }
     .footer-area .footer-right-area {
         font-size: 0.8em;
